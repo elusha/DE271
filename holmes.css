@@ -1,0 +1,15 @@
+body {
+font-family: 'georgia';
+width: 500px;
+}
+div {  
+background-color: rgb(230, 222, 040);
+padding: 10px;
+border: 50px dotted #0000bb
+}
+h1,h2 {
+font-family: 'helvetica';
+}
+	
+	
+	
