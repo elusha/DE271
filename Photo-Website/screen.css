@@ -18,7 +18,9 @@ ul {
 li {
 	float: left;
 }
-
+li img {
+	max-width:150px; 
+	}
 footer {
 	clear: both;
 }
