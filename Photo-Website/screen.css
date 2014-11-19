@@ -17,6 +17,7 @@ ul {
 
 li {
 	float: left;
+	height: 150px;
 }
 li img {
 	max-width:150px; 
